@@ -12,12 +12,14 @@
     text-align: center;
     margin-top: 100px;
 }
-.sign-in-form{
+
+.form-build{
     height: 250px;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    border: 1px solid black;
 }
 
 .form-button{
@@ -25,4 +27,46 @@
    border: none;
    height: 30px;
    width: 60px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.none{
+    display: none;
 }
