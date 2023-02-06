@@ -1,0 +1,28 @@
+.wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+}
+
+.authorization-container{
+    width: 268px;
+    height: 350px;
+    border: 1px solid black; 
+    text-align: center;
+    margin-top: 100px;
+}
+.sign-in-form{
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.form-button{
+   background-color: orange;
+   border: none;
+   height: 30px;
+   width: 60px;
+}
