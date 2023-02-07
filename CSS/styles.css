@@ -65,11 +65,18 @@ main{
 
 .snippet-textbox-container{
     width: 80%;
-    height: 80%;
+    height: 60%;
     background-color: grey;
 }
 
-
+.snippet-modify-container{
+    width: 80%;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    height: 30px;
+   
+}
 
 header{
     width: 100%;
